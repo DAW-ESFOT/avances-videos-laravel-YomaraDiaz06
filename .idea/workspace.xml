@@ -21,7 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0530d352-e0f3-4b00-942a-f1c396c79558" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Article.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Article.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +145,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/proyecto_diseño/proyecto-grupal-teachlearn" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -165,7 +167,10 @@
       <workItem from="1609715150827" duration="572000" />
       <workItem from="1609733859541" duration="2745000" />
       <workItem from="1609767605715" duration="670000" />
-      <workItem from="1609774695542" duration="6771000" />
+      <workItem from="1609774695542" duration="7877000" />
+      <workItem from="1609863541497" duration="7048000" />
+      <workItem from="1609906164069" duration="3129000" />
+      <workItem from="1609940524528" duration="4207000" />
     </task>
     <servers />
   </component>
@@ -182,12 +187,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1609715534888">
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1609863836042">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609715534888" />
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609863836042" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1609715327435">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
