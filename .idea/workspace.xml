@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0530d352-e0f3-4b00-942a-f1c396c79558" name="Default Changelist" comment="" />
+    <list default="true" id="0530d352-e0f3-4b00-942a-f1c396c79558" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,8 +142,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/proyecto_diseño/proyecto-grupal-teachlearn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -166,6 +170,17 @@
       <workItem from="1609863541497" duration="7048000" />
       <workItem from="1609906164069" duration="3129000" />
       <workItem from="1609940524528" duration="4207000" />
+      <workItem from="1609964550957" duration="458000" />
+      <workItem from="1609965341320" duration="213000" />
+      <workItem from="1609965954888" duration="804000" />
+      <workItem from="1609966943014" duration="121000" />
+      <workItem from="1609967098532" duration="190000" />
+      <workItem from="1609968057214" duration="349000" />
+      <workItem from="1609970366064" duration="2777000" />
+      <workItem from="1610379094263" duration="1189000" />
+      <workItem from="1610380799097" duration="147000" />
+      <workItem from="1610383567333" duration="1118000" />
+      <workItem from="1610385757012" duration="3321000" />
     </task>
     <servers />
   </component>
@@ -183,15 +198,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1609863836042">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609863836042" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1609715327435">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1609715327435" />
   </component>
 </project>
