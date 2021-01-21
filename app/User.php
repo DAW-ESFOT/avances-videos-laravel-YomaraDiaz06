@@ -51,4 +51,18 @@ class User extends Authenticatable implements JWTSubject
     {
         return [];
     }
+
+    public function articles()
+    {
+        return $this->hasMany('App\Article'); //permite establecer
+        // que un usuario tiene muchos articulos
+    //determina automaticamente la clave foranea
+        // $this->hasMany('App\Article','user_id','id');
+    }
+//}
+
+public function comments()
+{
+    return $this->hasMany('App\Comment');  //un usuario tiene varios comentarios
+}
 }
