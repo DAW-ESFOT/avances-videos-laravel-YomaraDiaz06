@@ -65,4 +65,10 @@ public function comments()
 {
     return $this->hasMany('App\Comment');  //un usuario tiene varios comentarios
 }
+
+public function categories()
+{
+    return $this->belongsToMany('App\Category')->as('subscriptions')->withTimestamps();
+}
+
 }
